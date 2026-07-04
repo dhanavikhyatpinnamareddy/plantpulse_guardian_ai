@@ -164,19 +164,19 @@ Presents simple actionable advice divided into structured, left-bordered diagnos
 
 ### 5. Crop-Aware Fertilizer Recommendation Cards
 Displays fertilizer cards containing custom-generated realistic bag images, application guidance, timing, and precautions:
-![Fertilizer Recommendations](demo%20screenshots/Screenshot%202026-07-04%20121020.png)
+![Fertilizer Recommendations](demo%20screenshots/Screenshot%202026-07-04%20121128.png)
 
 ### 6. Fully Localized Telugu Mode
 Demonstrates complete UI translation and dynamic advice translation into Telugu script:
-![Telugu Dashboard Mode](demo%20screenshots/Screenshot%202026-07-04%20121044.png)
+![Telugu Dashboard Mode](demo%20screenshots/Screenshot%202026-07-04%20121147.png)
 
 ### 7. Technical AI Report Tab
 For judges and researchers, showing the raw agent metrics, deficiencies list, and structured suggestions:
-![Technical AI Report](demo%20screenshots/Screenshot%202026-07-04%20121128.png)
+![Technical AI Report](demo%20screenshots/Screenshot%202026-07-04%20121020.png)
 
 ### 8. Downloadable Reports
 Enables downloading PDF and JSON reports:
-![PDF and JSON Download Panel](demo%20screenshots/Screenshot%202026-07-04%20121147.png)
+![PDF and JSON Download Panel](demo%20screenshots/Screenshot%202026-07-04%20121044.png)
 
 ---
 
@@ -252,7 +252,7 @@ In rural areas, continuous internet connectivity is not guaranteed. **PlantPulse
 
 *   **Team Name**: Plant Pulse Guardian
 *   **Team Members**:
-    *   **Dhana Vikhyat Pinnamareddy** (Team Lead) – CSE (Internet of Things)
+    *   **DHANA VIKHYAT PINNAMAREDDY** (Team Lead) – CSE (Internet of Things)
     *   **CH H V V Satyanarayana** – CSE (Artificial Intelligence & Machine Learning)
 *   **College**: Aditya College of Engineering and Technology
 *   **Developed for**: Kaggle AI Agents Capstone Project
